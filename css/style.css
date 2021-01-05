@@ -1,0 +1,15 @@
+#app {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+#nav {
+    padding-top: 10px;
+    align-self: center;
+    text-align: center;
+}
+
+body {
+    background-image: url('https://www.trafoos.com/wp-content/uploads/2020/09/rick-and-morty-wallpaper-2.png');
+}
